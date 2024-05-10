@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cysmkxf1nxbvf"
-path="res://.godot/imported/Special1.png-01b75cb1ba589fcdf26a3381cfab3a90.ctex"
+path="res://.godot/imported/Special1.png-ecbc41b2808cb23bb37fad623814e648.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SamuraiRed/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-01b75cb1ba589fcdf26a3381cfab3a90.ctex"]
+source_file="res://assets/Actor/Characters/SamuraiRed/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-ecbc41b2808cb23bb37fad623814e648.ctex"]
 
 [params]
 

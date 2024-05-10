@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1chhp5mpqleh"
-path="res://.godot/imported/Beaf.png-83a99311460e8357b4798ec83481411c.ctex"
+path="res://.godot/imported/Beaf.png-c47e7ec53668288a59bf086f13f87d7e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Food/Beaf.png"
-dest_files=["res://.godot/imported/Beaf.png-83a99311460e8357b4798ec83481411c.ctex"]
+source_file="res://assets/Items/Food/Beaf.png"
+dest_files=["res://.godot/imported/Beaf.png-c47e7ec53668288a59bf086f13f87d7e.ctex"]
 
 [params]
 

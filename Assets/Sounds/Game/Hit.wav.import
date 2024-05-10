@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c3hv3l8peuu0"
-path="res://.godot/imported/Hit.wav-42cac806211e2a117f777fd64f4fb904.sample"
+path="res://.godot/imported/Hit.wav-4e861b01f0cef7ca4397b26fa3df6456.sample"
 
 [deps]
 
-source_file="res://Assets/Sounds/Game/Hit.wav"
-dest_files=["res://.godot/imported/Hit.wav-42cac806211e2a117f777fd64f4fb904.sample"]
+source_file="res://assets/Sounds/Game/Hit.wav"
+dest_files=["res://.godot/imported/Hit.wav-4e861b01f0cef7ca4397b26fa3df6456.sample"]
 
 [params]
 

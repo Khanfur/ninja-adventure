@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://yn47jh8cisgg"
-path="res://.godot/imported/MiniImpact.wav-8d34e8d310c598e17e8fb3dc5ba357ea.sample"
+path="res://.godot/imported/MiniImpact.wav-8d0472e70d280436034b1fd380be2055.sample"
 
 [deps]
 
-source_file="res://Assets/Sounds/Game/MiniImpact.wav"
-dest_files=["res://.godot/imported/MiniImpact.wav-8d34e8d310c598e17e8fb3dc5ba357ea.sample"]
+source_file="res://assets/Sounds/Game/MiniImpact.wav"
+dest_files=["res://.godot/imported/MiniImpact.wav-8d0472e70d280436034b1fd380be2055.sample"]
 
 [params]
 

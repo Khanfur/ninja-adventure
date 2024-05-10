@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kfphhmlf4x50"
-path="res://.godot/imported/SpriteInHand.png-721d2a59f0ce499f721fdeab875d1173.ctex"
+path="res://.godot/imported/SpriteInHand.png-d2bf46143ec64d3aac93103dd9bb08de.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Weapons/MagicWand/SpriteInHand.png"
-dest_files=["res://.godot/imported/SpriteInHand.png-721d2a59f0ce499f721fdeab875d1173.ctex"]
+source_file="res://assets/Items/Weapons/MagicWand/SpriteInHand.png"
+dest_files=["res://.godot/imported/SpriteInHand.png-d2bf46143ec64d3aac93103dd9bb08de.ctex"]
 
 [params]
 

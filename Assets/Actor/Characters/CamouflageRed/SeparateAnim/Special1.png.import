@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxqrxw53e6g5s"
-path="res://.godot/imported/Special1.png-e0d7eed8bf8ce8fd51df3a5d4dd06ef6.ctex"
+path="res://.godot/imported/Special1.png-08c4be617e0bb04c33f1f27875e4ad80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/CamouflageRed/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-e0d7eed8bf8ce8fd51df3a5d4dd06ef6.ctex"]
+source_file="res://assets/Actor/Characters/CamouflageRed/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-08c4be617e0bb04c33f1f27875e4ad80.ctex"]
 
 [params]
 

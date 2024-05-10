@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dklg2nf21reak"
-path="res://.godot/imported/DialogueBoxSimple.png-9a2ef1ce88642456a385f99906629046.ctex"
+path="res://.godot/imported/DialogueBoxSimple.png-1416882ff683925f7bf47cab6ba46f45.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Ui/Dialog/DialogueBoxSimple.png"
-dest_files=["res://.godot/imported/DialogueBoxSimple.png-9a2ef1ce88642456a385f99906629046.ctex"]
+source_file="res://assets/Ui/Dialog/DialogueBoxSimple.png"
+dest_files=["res://.godot/imported/DialogueBoxSimple.png-1416882ff683925f7bf47cab6ba46f45.ctex"]
 
 [params]
 

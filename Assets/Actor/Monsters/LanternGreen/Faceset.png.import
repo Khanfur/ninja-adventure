@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cio5m0d2456fk"
-path="res://.godot/imported/Faceset.png-bdda5cd8fb2ea8a37dbcf93df55fe627.ctex"
+path="res://.godot/imported/Faceset.png-92f7e47d4faa887a9860afa01f79e8b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/LanternGreen/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-bdda5cd8fb2ea8a37dbcf93df55fe627.ctex"]
+source_file="res://assets/Actor/Monsters/LanternGreen/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-92f7e47d4faa887a9860afa01f79e8b5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqds4f66mkeka"
-path="res://.godot/imported/Faceset.png-b29eb776138de30b73f6486e79ad8539.ctex"
+path="res://.godot/imported/Faceset.png-173bf4c37a209dbbd378ed83f0f1e536.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Owl2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-b29eb776138de30b73f6486e79ad8539.ctex"]
+source_file="res://assets/Actor/Monsters/Owl2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-173bf4c37a209dbbd378ed83f0f1e536.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://isl8ycoql1lc"
-path="res://.godot/imported/Special2.png-570f12d8e96b747a215e9725413c120c.ctex"
+path="res://.godot/imported/Special2.png-7088f8969011ea490caf24f94d269a68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/DemonGreen/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-570f12d8e96b747a215e9725413c120c.ctex"]
+source_file="res://assets/Actor/Characters/DemonGreen/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-7088f8969011ea490caf24f94d269a68.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6op2uv8tkb7h"
-path="res://.godot/imported/Dead.png-6c7be9b6be314a92f37278d1ff96889e.ctex"
+path="res://.godot/imported/Dead.png-8642f80c2e04c5280949e74178b4f898.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Villager2/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-6c7be9b6be314a92f37278d1ff96889e.ctex"]
+source_file="res://assets/Actor/Characters/Villager2/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-8642f80c2e04c5280949e74178b4f898.ctex"]
 
 [params]
 

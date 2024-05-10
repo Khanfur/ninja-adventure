@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://brb1kvmwneosx"
-path="res://.godot/imported/Gold2.wav-086d320d28d881ed19afd91d7b768130.sample"
+path="res://.godot/imported/Gold2.wav-25e6f3820f06d6313e0c9806ac42f0cf.sample"
 
 [deps]
 
-source_file="res://Assets/Sounds/Game/Gold2.wav"
-dest_files=["res://.godot/imported/Gold2.wav-086d320d28d881ed19afd91d7b768130.sample"]
+source_file="res://assets/Sounds/Game/Gold2.wav"
+dest_files=["res://.godot/imported/Gold2.wav-25e6f3820f06d6313e0c9806ac42f0cf.sample"]
 
 [params]
 

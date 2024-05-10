@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8adfl4q04f7c"
-path="res://.godot/imported/SpriteSheet.png-1cefe2621b4451cf21c0389cf546d613.ctex"
+path="res://.godot/imported/SpriteSheet.png-37e757a1f1ec3a4dedd90300db09ede2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/HeartRed/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-1cefe2621b4451cf21c0389cf546d613.ctex"]
+source_file="res://assets/Actor/Monsters/HeartRed/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-37e757a1f1ec3a4dedd90300db09ede2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3ei86bbruqqn"
-path="res://.godot/imported/IceSpike.png-99728df148a70032bd405d1a1b01208f.ctex"
+path="res://.godot/imported/IceSpike.png-1e6e2cf29720a3a5c1657de0a9d44ab7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Projectile/IceSpike.png"
-dest_files=["res://.godot/imported/IceSpike.png-99728df148a70032bd405d1a1b01208f.ctex"]
+source_file="res://assets/FX/Projectile/IceSpike.png"
+dest_files=["res://.godot/imported/IceSpike.png-1e6e2cf29720a3a5c1657de0a9d44ab7.ctex"]
 
 [params]
 

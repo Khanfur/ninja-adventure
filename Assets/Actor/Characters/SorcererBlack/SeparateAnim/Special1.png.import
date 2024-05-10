@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwsnjvdva4uov"
-path="res://.godot/imported/Special1.png-5b36a4b239125acecd3e70f1b10a8289.ctex"
+path="res://.godot/imported/Special1.png-e9d5549c95565bff97e42b6fe01644c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SorcererBlack/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-5b36a4b239125acecd3e70f1b10a8289.ctex"]
+source_file="res://assets/Actor/Characters/SorcererBlack/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-e9d5549c95565bff97e42b6fe01644c0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1q5b45chy0d3"
-path="res://.godot/imported/Special2.png-c3e3afb258b2d11d87ae5abbcac4428e.ctex"
+path="res://.godot/imported/Special2.png-182c681fb7739594c9553f6d9fda5a02.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Hunter/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-c3e3afb258b2d11d87ae5abbcac4428e.ctex"]
+source_file="res://assets/Actor/Characters/Hunter/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-182c681fb7739594c9553f6d9fda5a02.ctex"]
 
 [params]
 

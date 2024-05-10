@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p3dksukiti57"
-path="res://.godot/imported/Walk.png-cc24d82f76d2dad8ae8d753a76bbd7a5.ctex"
+path="res://.godot/imported/Walk.png-c7f4737a6d5ef89361ebdac32efeb93c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SamuraiBlue/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-cc24d82f76d2dad8ae8d753a76bbd7a5.ctex"]
+source_file="res://assets/Actor/Characters/SamuraiBlue/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-c7f4737a6d5ef89361ebdac32efeb93c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0x5ltrg3hbhr"
-path="res://.godot/imported/Attack.png-67e0764b54a0331c35e16072f90133b1.ctex"
+path="res://.godot/imported/Attack.png-53f6cd0cce2606996db879e4503bfc47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/DemonRed/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-67e0764b54a0331c35e16072f90133b1.ctex"]
+source_file="res://assets/Actor/Characters/DemonRed/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-53f6cd0cce2606996db879e4503bfc47.ctex"]
 
 [params]
 

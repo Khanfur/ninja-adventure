@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccqhar21ex741"
-path="res://.godot/imported/Faceset.png-fd5161f0a33fc038a82b6f1e55bfbb86.ctex"
+path="res://.godot/imported/Faceset.png-bcb4c3f958743e65bef87202ab8784c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/SpiderYellow/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-fd5161f0a33fc038a82b6f1e55bfbb86.ctex"]
+source_file="res://assets/Actor/Monsters/SpiderYellow/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-bcb4c3f958743e65bef87202ab8784c1.ctex"]
 
 [params]
 

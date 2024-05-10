@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bektox7eblqy3"
-path="res://.godot/imported/FacesetWhite.png-dba70bdb4ab85f1fdef193236dcf9109.ctex"
+path="res://.godot/imported/FacesetWhite.png-b609cd69c8596f2f4d0b8d358a311ffa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Lion/FacesetWhite.png"
-dest_files=["res://.godot/imported/FacesetWhite.png-dba70bdb4ab85f1fdef193236dcf9109.ctex"]
+source_file="res://assets/Actor/Animals/Lion/FacesetWhite.png"
+dest_files=["res://.godot/imported/FacesetWhite.png-b609cd69c8596f2f4d0b8d358a311ffa.ctex"]
 
 [params]
 

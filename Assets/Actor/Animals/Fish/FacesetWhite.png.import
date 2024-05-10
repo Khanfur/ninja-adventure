@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0llefyi4qfcp"
-path="res://.godot/imported/FacesetWhite.png-ce43ed7078712dc498364776dfaf6484.ctex"
+path="res://.godot/imported/FacesetWhite.png-296e9ed18f891fb200665c11b16731d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Fish/FacesetWhite.png"
-dest_files=["res://.godot/imported/FacesetWhite.png-ce43ed7078712dc498364776dfaf6484.ctex"]
+source_file="res://assets/Actor/Animals/Fish/FacesetWhite.png"
+dest_files=["res://.godot/imported/FacesetWhite.png-296e9ed18f891fb200665c11b16731d2.ctex"]
 
 [params]
 

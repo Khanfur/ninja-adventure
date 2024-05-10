@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwuxfqq2ptmys"
-path="res://.godot/imported/Sprite.png-e3ffa02663efc333830955ea798532ad.ctex"
+path="res://.godot/imported/Sprite.png-8388de11fdeca5c058fc728eefef41db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Weapons/BigSword/Sprite.png"
-dest_files=["res://.godot/imported/Sprite.png-e3ffa02663efc333830955ea798532ad.ctex"]
+source_file="res://assets/Items/Weapons/BigSword/Sprite.png"
+dest_files=["res://.godot/imported/Sprite.png-8388de11fdeca5c058fc728eefef41db.ctex"]
 
 [params]
 

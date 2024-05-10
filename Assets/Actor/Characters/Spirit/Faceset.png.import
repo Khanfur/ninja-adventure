@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btdkdmokd87gr"
-path="res://.godot/imported/Faceset.png-da657d6cd624067415f053f512883b60.ctex"
+path="res://.godot/imported/Faceset.png-84e98f40c1ad23fdace2edb55eb9d0d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Spirit/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-da657d6cd624067415f053f512883b60.ctex"]
+source_file="res://assets/Actor/Characters/Spirit/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-84e98f40c1ad23fdace2edb55eb9d0d2.ctex"]
 
 [params]
 

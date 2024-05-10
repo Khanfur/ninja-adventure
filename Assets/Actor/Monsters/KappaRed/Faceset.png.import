@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfjppw4sh536i"
-path="res://.godot/imported/Faceset.png-6df582b03bbf1373d13fc742c18415b1.ctex"
+path="res://.godot/imported/Faceset.png-2dc6741f15bd47c8c165572f7229831f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/KappaRed/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-6df582b03bbf1373d13fc742c18415b1.ctex"]
+source_file="res://assets/Actor/Monsters/KappaRed/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-2dc6741f15bd47c8c165572f7229831f.ctex"]
 
 [params]
 

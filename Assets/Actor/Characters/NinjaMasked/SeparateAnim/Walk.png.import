@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fbk5qviyr56q"
-path="res://.godot/imported/Walk.png-c3817aac54b659219005caba3acc3748.ctex"
+path="res://.godot/imported/Walk.png-58018f0b6675e0113c759b25ac67a5d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/NinjaMasked/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-c3817aac54b659219005caba3acc3748.ctex"]
+source_file="res://assets/Actor/Characters/NinjaMasked/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-58018f0b6675e0113c759b25ac67a5d3.ctex"]
 
 [params]
 

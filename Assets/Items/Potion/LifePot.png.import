@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4hu4ixkjsogs"
-path="res://.godot/imported/LifePot.png-c8b83ef24bf114b96b0b7dadddeb984d.ctex"
+path="res://.godot/imported/LifePot.png-8d0acb746f5ddf1ecbc426381b0100b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Potion/LifePot.png"
-dest_files=["res://.godot/imported/LifePot.png-c8b83ef24bf114b96b0b7dadddeb984d.ctex"]
+source_file="res://assets/Items/Potion/LifePot.png"
+dest_files=["res://.godot/imported/LifePot.png-8d0acb746f5ddf1ecbc426381b0100b5.ctex"]
 
 [params]
 

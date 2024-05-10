@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du5m3sadvpf6a"
-path="res://.godot/imported/SpriteSheet.png-f3f8b32c97988855b11fbde43b3068c5.ctex"
+path="res://.godot/imported/SpriteSheet.png-c71b5a65e473a8e30b35782f1463eb2e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/SlashFx/SlashDoubleCurved/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-f3f8b32c97988855b11fbde43b3068c5.ctex"]
+source_file="res://assets/FX/SlashFx/SlashDoubleCurved/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-c71b5a65e473a8e30b35782f1463eb2e.ctex"]
 
 [params]
 

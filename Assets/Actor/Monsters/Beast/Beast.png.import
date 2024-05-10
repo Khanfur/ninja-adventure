@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgogtk70kifgb"
-path="res://.godot/imported/Beast.png-db1e0012a7b2c05a17763bc1e96d6f42.ctex"
+path="res://.godot/imported/Beast.png-2cdc3b39a8e863cf02fe369b5f1584d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Beast/Beast.png"
-dest_files=["res://.godot/imported/Beast.png-db1e0012a7b2c05a17763bc1e96d6f42.ctex"]
+source_file="res://assets/Actor/Monsters/Beast/Beast.png"
+dest_files=["res://.godot/imported/Beast.png-2cdc3b39a8e863cf02fe369b5f1584d3.ctex"]
 
 [params]
 

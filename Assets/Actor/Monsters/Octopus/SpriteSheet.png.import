@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dks7uu25snb8p"
-path="res://.godot/imported/SpriteSheet.png-1273c41fe8abbd8d025c293e05851f72.ctex"
+path="res://.godot/imported/SpriteSheet.png-ee898fcf4fc399ff2ba4c310f76d8ed8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Octopus/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-1273c41fe8abbd8d025c293e05851f72.ctex"]
+source_file="res://assets/Actor/Monsters/Octopus/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-ee898fcf4fc399ff2ba4c310f76d8ed8.ctex"]
 
 [params]
 

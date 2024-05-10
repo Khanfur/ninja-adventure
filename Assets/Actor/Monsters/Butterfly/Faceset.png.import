@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg5xll7hy02rf"
-path="res://.godot/imported/Faceset.png-ca69dd57383b74e9722e1073fe98a93b.ctex"
+path="res://.godot/imported/Faceset.png-a2ca527753e3cc7e336bca315bf9baba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Butterfly/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-ca69dd57383b74e9722e1073fe98a93b.ctex"]
+source_file="res://assets/Actor/Monsters/Butterfly/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-a2ca527753e3cc7e336bca315bf9baba.ctex"]
 
 [params]
 

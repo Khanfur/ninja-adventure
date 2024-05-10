@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dym5y82gnnqd8"
-path="res://.godot/imported/Faceset.png-b9d3ef05f8c39a9b07d6c18edf54959b.ctex"
+path="res://.godot/imported/Faceset.png-53ef207c439c2f141381b4802a4c641c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Snake2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-b9d3ef05f8c39a9b07d6c18edf54959b.ctex"]
+source_file="res://assets/Actor/Monsters/Snake2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-53ef207c439c2f141381b4802a4c641c.ctex"]
 
 [params]
 

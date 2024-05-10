@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbd23pp5ct61r"
-path="res://.godot/imported/Faceset.png-812234c9f0166eaeb569f387eb262845.ctex"
+path="res://.godot/imported/Faceset.png-7a1d8c4f8ab5df6ad0ee0cb1c0909dd6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/MaskFrog/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-812234c9f0166eaeb569f387eb262845.ctex"]
+source_file="res://assets/Actor/Characters/MaskFrog/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-7a1d8c4f8ab5df6ad0ee0cb1c0909dd6.ctex"]
 
 [params]
 

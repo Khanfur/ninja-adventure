@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkqhqckpd2g8a"
-path="res://.godot/imported/SpriteSheetPink.png-cf45d53a6ab57e7f300f5a24cb20956a.ctex"
+path="res://.godot/imported/SpriteSheetPink.png-d1915f6fd608a07c4d095e1c0c203855.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Pig/SpriteSheetPink.png"
-dest_files=["res://.godot/imported/SpriteSheetPink.png-cf45d53a6ab57e7f300f5a24cb20956a.ctex"]
+source_file="res://assets/Actor/Animals/Pig/SpriteSheetPink.png"
+dest_files=["res://.godot/imported/SpriteSheetPink.png-d1915f6fd608a07c4d095e1c0c203855.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c26tm7nlx3jbm"
-path="res://.godot/imported/10 - Dark Castle.ogg-a9b4ad779d6cbdef2b810599c227f489.oggvorbisstr"
+path="res://.godot/imported/10 - Dark Castle.ogg-32ac1889a209c3f0ebb36e87d954528c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Musics/10 - Dark Castle.ogg"
-dest_files=["res://.godot/imported/10 - Dark Castle.ogg-a9b4ad779d6cbdef2b810599c227f489.oggvorbisstr"]
+source_file="res://assets/Musics/10 - Dark Castle.ogg"
+dest_files=["res://.godot/imported/10 - Dark Castle.ogg-32ac1889a209c3f0ebb36e87d954528c.oggvorbisstr"]
 
 [params]
 

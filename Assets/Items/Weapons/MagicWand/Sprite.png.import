@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq2nveoewj0xf"
-path="res://.godot/imported/Sprite.png-331254e4f869ea33d8a240a55e19005a.ctex"
+path="res://.godot/imported/Sprite.png-d51dcea361f589825142dee050f8aedb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Weapons/MagicWand/Sprite.png"
-dest_files=["res://.godot/imported/Sprite.png-331254e4f869ea33d8a240a55e19005a.ctex"]
+source_file="res://assets/Items/Weapons/MagicWand/Sprite.png"
+dest_files=["res://.godot/imported/Sprite.png-d51dcea361f589825142dee050f8aedb.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmn8k211lsxvu"
-path="res://.godot/imported/Item.png-acd2db9f7463fa3ffb6fc0c04e6642d9.ctex"
+path="res://.godot/imported/Item.png-0b88c11aeab88faab04d936c3e9e4728.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/NinjaMageOrange/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-acd2db9f7463fa3ffb6fc0c04e6642d9.ctex"]
+source_file="res://assets/Actor/Characters/NinjaMageOrange/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-0b88c11aeab88faab04d936c3e9e4728.ctex"]
 
 [params]
 

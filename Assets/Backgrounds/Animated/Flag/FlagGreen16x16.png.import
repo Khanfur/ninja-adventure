@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2833l2o43wym"
-path="res://.godot/imported/FlagGreen16x16.png-49f8f020f6ae43641d88b7daaf687a9f.ctex"
+path="res://.godot/imported/FlagGreen16x16.png-a9c4d0b43e6041c53ae9fb08c7227cd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Backgrounds/Animated/Flag/FlagGreen16x16.png"
-dest_files=["res://.godot/imported/FlagGreen16x16.png-49f8f020f6ae43641d88b7daaf687a9f.ctex"]
+source_file="res://assets/Backgrounds/Animated/Flag/FlagGreen16x16.png"
+dest_files=["res://.godot/imported/FlagGreen16x16.png-a9c4d0b43e6041c53ae9fb08c7227cd2.ctex"]
 
 [params]
 

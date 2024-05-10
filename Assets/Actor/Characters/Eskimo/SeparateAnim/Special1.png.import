@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3gycbv3lim4q"
-path="res://.godot/imported/Special1.png-dd80f74a18a186c98312b1c3a752813e.ctex"
+path="res://.godot/imported/Special1.png-6e19374f022c8bb6e378ce7d7123d9a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Eskimo/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-dd80f74a18a186c98312b1c3a752813e.ctex"]
+source_file="res://assets/Actor/Characters/Eskimo/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-6e19374f022c8bb6e378ce7d7123d9a9.ctex"]
 
 [params]
 

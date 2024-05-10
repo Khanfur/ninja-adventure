@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq6em1mqof56q"
-path="res://.godot/imported/Faceset.png-c684f543a311fb64ce5f43b1f4158e8b.ctex"
+path="res://.godot/imported/Faceset.png-3ddd1fc95861a2687684023e1aba92d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Princess/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-c684f543a311fb64ce5f43b1f4158e8b.ctex"]
+source_file="res://assets/Actor/Characters/Princess/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-3ddd1fc95861a2687684023e1aba92d5.ctex"]
 
 [params]
 

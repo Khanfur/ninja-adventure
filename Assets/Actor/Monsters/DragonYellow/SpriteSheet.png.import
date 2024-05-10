@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cafv8stqohfrd"
-path="res://.godot/imported/SpriteSheet.png-315c931799ee103082786f9352deb175.ctex"
+path="res://.godot/imported/SpriteSheet.png-09665cd1514c1af33207b129efa39c29.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/DragonYellow/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-315c931799ee103082786f9352deb175.ctex"]
+source_file="res://assets/Actor/Monsters/DragonYellow/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-09665cd1514c1af33207b129efa39c29.ctex"]
 
 [params]
 

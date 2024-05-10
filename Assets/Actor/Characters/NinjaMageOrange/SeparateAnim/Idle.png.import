@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dj78f4ulr5epe"
-path="res://.godot/imported/Idle.png-bd7ba2806711027b80062cad68e1d0e1.ctex"
+path="res://.godot/imported/Idle.png-1b74703e9f973dd2d0c50f0369164f31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/NinjaMageOrange/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-bd7ba2806711027b80062cad68e1d0e1.ctex"]
+source_file="res://assets/Actor/Characters/NinjaMageOrange/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-1b74703e9f973dd2d0c50f0369164f31.ctex"]
 
 [params]
 

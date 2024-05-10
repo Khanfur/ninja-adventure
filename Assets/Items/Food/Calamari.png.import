@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uerjf11useua"
-path="res://.godot/imported/Calamari.png-0b4c7a4acbd09ab47c8ed9888e7933b5.ctex"
+path="res://.godot/imported/Calamari.png-b74f7a30db030ef35e361e7620ebfeff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Food/Calamari.png"
-dest_files=["res://.godot/imported/Calamari.png-0b4c7a4acbd09ab47c8ed9888e7933b5.ctex"]
+source_file="res://assets/Items/Food/Calamari.png"
+dest_files=["res://.godot/imported/Calamari.png-b74f7a30db030ef35e361e7620ebfeff.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn07ftjrgsd76"
-path="res://.godot/imported/Faceset.png-8a60dbe255617e11c38a682f9c221cc5.ctex"
+path="res://.godot/imported/Faceset.png-a35b3fa3525e70b5cd0e9b0b098bf76b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/FighterWhite/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-8a60dbe255617e11c38a682f9c221cc5.ctex"]
+source_file="res://assets/Actor/Characters/FighterWhite/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-a35b3fa3525e70b5cd0e9b0b098bf76b.ctex"]
 
 [params]
 

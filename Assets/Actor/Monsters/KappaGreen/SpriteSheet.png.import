@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dywymq3eknp6t"
-path="res://.godot/imported/SpriteSheet.png-8f422c9562f5a91749a27a9e83b3a791.ctex"
+path="res://.godot/imported/SpriteSheet.png-b111e2584f3c6415f85154410a23b660.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/KappaGreen/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-8f422c9562f5a91749a27a9e83b3a791.ctex"]
+source_file="res://assets/Actor/Monsters/KappaGreen/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-b111e2584f3c6415f85154410a23b660.ctex"]
 
 [params]
 

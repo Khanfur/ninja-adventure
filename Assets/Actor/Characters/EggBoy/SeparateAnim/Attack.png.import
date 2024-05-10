@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b35888lkxacuf"
-path="res://.godot/imported/Attack.png-90ca23c9997b7c48bfc9dd3354694a70.ctex"
+path="res://.godot/imported/Attack.png-a0b811c31d820c3702c46ef6d2b8f974.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/EggBoy/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-90ca23c9997b7c48bfc9dd3354694a70.ctex"]
+source_file="res://assets/Actor/Characters/EggBoy/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-a0b811c31d820c3702c46ef6d2b8f974.ctex"]
 
 [params]
 

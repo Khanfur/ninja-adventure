@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cj70fmu8usi81"
-path="res://.godot/imported/Jump.png-c054994075087c231c0d60e6be9e01b4.ctex"
+path="res://.godot/imported/Jump.png-414605fe9c3dffa6d53371f1f3ebcf27.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SamuraiBlue/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-c054994075087c231c0d60e6be9e01b4.ctex"]
+source_file="res://assets/Actor/Characters/SamuraiBlue/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-414605fe9c3dffa6d53371f1f3ebcf27.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://iotngu0ve7rd"
-path="res://.godot/imported/Seed3.png-d449df8f7b9c0c0df39e89fdc55a3a62.ctex"
+path="res://.godot/imported/Seed3.png-fccc0f039d08b30d511e7e162f0330dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Food/Seed3.png"
-dest_files=["res://.godot/imported/Seed3.png-d449df8f7b9c0c0df39e89fdc55a3a62.ctex"]
+source_file="res://assets/Items/Food/Seed3.png"
+dest_files=["res://.godot/imported/Seed3.png-fccc0f039d08b30d511e7e162f0330dd.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgm7n1mwvif5r"
-path="res://.godot/imported/Faceset.png-3a13d6e8516497f48a645dae2da3997b.ctex"
+path="res://.godot/imported/Faceset.png-5a18c733c51e13b1d2b3dc2e9c3987f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Cyclope/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-3a13d6e8516497f48a645dae2da3997b.ctex"]
+source_file="res://assets/Actor/Monsters/Cyclope/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-5a18c733c51e13b1d2b3dc2e9c3987f2.ctex"]
 
 [params]
 

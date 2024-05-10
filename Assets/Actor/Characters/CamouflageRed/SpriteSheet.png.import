@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkh6n7w6e0q3d"
-path="res://.godot/imported/SpriteSheet.png-9b7612fa53f030e5283c01c1ea054eea.ctex"
+path="res://.godot/imported/SpriteSheet.png-1d7c8dde53c598f91824da209b8a397c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/CamouflageRed/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-9b7612fa53f030e5283c01c1ea054eea.ctex"]
+source_file="res://assets/Actor/Characters/CamouflageRed/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-1d7c8dde53c598f91824da209b8a397c.ctex"]
 
 [params]
 

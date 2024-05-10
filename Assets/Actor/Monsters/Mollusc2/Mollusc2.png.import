@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cse11nxio6iby"
-path="res://.godot/imported/Mollusc2.png-e48f109ec6cbc22d8f00293fc36af67e.ctex"
+path="res://.godot/imported/Mollusc2.png-55452ca324d2d53ceb728d9eba5e32c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Mollusc2/Mollusc2.png"
-dest_files=["res://.godot/imported/Mollusc2.png-e48f109ec6cbc22d8f00293fc36af67e.ctex"]
+source_file="res://assets/Actor/Monsters/Mollusc2/Mollusc2.png"
+dest_files=["res://.godot/imported/Mollusc2.png-55452ca324d2d53ceb728d9eba5e32c8.ctex"]
 
 [params]
 

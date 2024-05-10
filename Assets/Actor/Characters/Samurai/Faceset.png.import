@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddkam78ixbjgv"
-path="res://.godot/imported/Faceset.png-56271d5ae649813f1a705bc7a569ca2d.ctex"
+path="res://.godot/imported/Faceset.png-7369a9dd4e337be01c06b258a3afd19c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Samurai/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-56271d5ae649813f1a705bc7a569ca2d.ctex"]
+source_file="res://assets/Actor/Characters/Samurai/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-7369a9dd4e337be01c06b258a3afd19c.ctex"]
 
 [params]
 

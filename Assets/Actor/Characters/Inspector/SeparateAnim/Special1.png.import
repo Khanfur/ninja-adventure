@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwvw30k0q1lqe"
-path="res://.godot/imported/Special1.png-297d647bd7a9ca8d46dbad039b621abc.ctex"
+path="res://.godot/imported/Special1.png-1cb5cc3403c8c91fc558c2718203c941.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Inspector/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-297d647bd7a9ca8d46dbad039b621abc.ctex"]
+source_file="res://assets/Actor/Characters/Inspector/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-1cb5cc3403c8c91fc558c2718203c941.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://darhnjarf1r0m"
-path="res://.godot/imported/SpriteSheet.png-ad60552ae22d26a11bb8c5fa0456994a.ctex"
+path="res://.godot/imported/SpriteSheet.png-2428a461024a48b3931979032100303f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/LanternRed/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-ad60552ae22d26a11bb8c5fa0456994a.ctex"]
+source_file="res://assets/Actor/Monsters/LanternRed/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-2428a461024a48b3931979032100303f.ctex"]
 
 [params]
 

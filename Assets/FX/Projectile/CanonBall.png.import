@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2n47fjye75nh"
-path="res://.godot/imported/CanonBall.png-eb755b0f5c496fffbc198621bb45ec18.ctex"
+path="res://.godot/imported/CanonBall.png-8b9857c736743f99fdd53153f1589bc9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Projectile/CanonBall.png"
-dest_files=["res://.godot/imported/CanonBall.png-eb755b0f5c496fffbc198621bb45ec18.ctex"]
+source_file="res://assets/FX/Projectile/CanonBall.png"
+dest_files=["res://.godot/imported/CanonBall.png-8b9857c736743f99fdd53153f1589bc9.ctex"]
 
 [params]
 

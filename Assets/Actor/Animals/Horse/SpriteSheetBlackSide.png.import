@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hghk7lnqncg1"
-path="res://.godot/imported/SpriteSheetBlackSide.png-39abfe8a2ed38dbbf87c8a6bf9b9b1fb.ctex"
+path="res://.godot/imported/SpriteSheetBlackSide.png-7f17a4ef111b712e93c813f59ee5aa3c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Horse/SpriteSheetBlackSide.png"
-dest_files=["res://.godot/imported/SpriteSheetBlackSide.png-39abfe8a2ed38dbbf87c8a6bf9b9b1fb.ctex"]
+source_file="res://assets/Actor/Animals/Horse/SpriteSheetBlackSide.png"
+dest_files=["res://.godot/imported/SpriteSheetBlackSide.png-7f17a4ef111b712e93c813f59ee5aa3c.ctex"]
 
 [params]
 

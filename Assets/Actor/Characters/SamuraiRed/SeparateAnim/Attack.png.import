@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhmorodkwp8bg"
-path="res://.godot/imported/Attack.png-cfbad47acacf40d25156738213f64a02.ctex"
+path="res://.godot/imported/Attack.png-52b12fbcf1f7c05621b5c2f93e6fefac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SamuraiRed/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-cfbad47acacf40d25156738213f64a02.ctex"]
+source_file="res://assets/Actor/Characters/SamuraiRed/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-52b12fbcf1f7c05621b5c2f93e6fefac.ctex"]
 
 [params]
 

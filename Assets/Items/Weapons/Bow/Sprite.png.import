@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqq0oph0oyhkg"
-path="res://.godot/imported/Sprite.png-544ae017d16e7814dbd89a8c80d6d13c.ctex"
+path="res://.godot/imported/Sprite.png-2f32aeed5925a2e80903922997ff1429.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Weapons/Bow/Sprite.png"
-dest_files=["res://.godot/imported/Sprite.png-544ae017d16e7814dbd89a8c80d6d13c.ctex"]
+source_file="res://assets/Items/Weapons/Bow/Sprite.png"
+dest_files=["res://.godot/imported/Sprite.png-2f32aeed5925a2e80903922997ff1429.ctex"]
 
 [params]
 

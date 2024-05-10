@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkjq1pc23l4lx"
-path="res://.godot/imported/Faceset.png-ab2ea3dbcd4fcdf0a7fe4643b8af2cc0.ctex"
+path="res://.godot/imported/Faceset.png-1db2de0740b9a457177c94048356ba58.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Boss/GiantSpirit/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-ab2ea3dbcd4fcdf0a7fe4643b8af2cc0.ctex"]
+source_file="res://assets/Actor/Boss/GiantSpirit/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-1db2de0740b9a457177c94048356ba58.ctex"]
 
 [params]
 

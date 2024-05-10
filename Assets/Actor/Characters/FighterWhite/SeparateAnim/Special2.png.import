@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ingviyjeri7l"
-path="res://.godot/imported/Special2.png-fb96fc5d4fab61470ab87d9079a363ad.ctex"
+path="res://.godot/imported/Special2.png-9cd8de290d3653285191d681436cbc26.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/FighterWhite/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-fb96fc5d4fab61470ab87d9079a363ad.ctex"]
+source_file="res://assets/Actor/Characters/FighterWhite/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-9cd8de290d3653285191d681436cbc26.ctex"]
 
 [params]
 

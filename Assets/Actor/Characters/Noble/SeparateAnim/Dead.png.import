@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4fqy06377la6"
-path="res://.godot/imported/Dead.png-b09f5f0cb944edf1fa2d37a407294172.ctex"
+path="res://.godot/imported/Dead.png-bb2aae89dd161673e392d1de0b9c338e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Noble/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-b09f5f0cb944edf1fa2d37a407294172.ctex"]
+source_file="res://assets/Actor/Characters/Noble/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-bb2aae89dd161673e392d1de0b9c338e.ctex"]
 
 [params]
 

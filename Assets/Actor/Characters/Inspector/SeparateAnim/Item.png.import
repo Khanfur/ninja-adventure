@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://caixupy6w2w64"
-path="res://.godot/imported/Item.png-cd0c602dfce51c4cbdb5ee99884fd13d.ctex"
+path="res://.godot/imported/Item.png-da3e1ff61361d5827ca16f5a7c23bf47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Inspector/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-cd0c602dfce51c4cbdb5ee99884fd13d.ctex"]
+source_file="res://assets/Actor/Characters/Inspector/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-da3e1ff61361d5827ca16f5a7c23bf47.ctex"]
 
 [params]
 

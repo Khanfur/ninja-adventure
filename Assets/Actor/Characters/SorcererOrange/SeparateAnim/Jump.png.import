@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jgil2e7hkh0u"
-path="res://.godot/imported/Jump.png-8b11870bec3d94ac24f19f6fae482287.ctex"
+path="res://.godot/imported/Jump.png-7b7e387200e8dd4dd4818dc762fe03b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SorcererOrange/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-8b11870bec3d94ac24f19f6fae482287.ctex"]
+source_file="res://assets/Actor/Characters/SorcererOrange/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-7b7e387200e8dd4dd4818dc762fe03b5.ctex"]
 
 [params]
 

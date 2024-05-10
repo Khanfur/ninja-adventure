@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dstoxc5txirsc"
-path="res://.godot/imported/Special2.png-70a46188a0763fcfdfe066459c03573d.ctex"
+path="res://.godot/imported/Special2.png-41aac6cb9a9f2932a6200350c9ec4be0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/FighterRed/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-70a46188a0763fcfdfe066459c03573d.ctex"]
+source_file="res://assets/Actor/Characters/FighterRed/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-41aac6cb9a9f2932a6200350c9ec4be0.ctex"]
 
 [params]
 

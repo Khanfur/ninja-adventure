@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhsctve7isaqt"
-path="res://.godot/imported/Walk.png-a40e3ff23c9c185696c571be5dda6a67.ctex"
+path="res://.godot/imported/Walk.png-c44f55cb43b18155abae875f5c59a603.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Caveman/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-a40e3ff23c9c185696c571be5dda6a67.ctex"]
+source_file="res://assets/Actor/Characters/Caveman/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-c44f55cb43b18155abae875f5c59a603.ctex"]
 
 [params]
 

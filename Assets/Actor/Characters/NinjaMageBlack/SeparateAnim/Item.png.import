@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r55l4hhne4dy"
-path="res://.godot/imported/Item.png-2f5540c650db22f500367b8e20902117.ctex"
+path="res://.godot/imported/Item.png-03974c05b8b49940b71d55f80b8e3097.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/NinjaMageBlack/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-2f5540c650db22f500367b8e20902117.ctex"]
+source_file="res://assets/Actor/Characters/NinjaMageBlack/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-03974c05b8b49940b71d55f80b8e3097.ctex"]
 
 [params]
 

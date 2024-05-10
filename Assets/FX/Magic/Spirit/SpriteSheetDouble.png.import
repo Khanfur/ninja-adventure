@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2bk15lq22niy"
-path="res://.godot/imported/SpriteSheetDouble.png-834e82e8f8fd566febeabe84f9b91237.ctex"
+path="res://.godot/imported/SpriteSheetDouble.png-b81d8210c9594e21bd2dc28a56c9e977.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Magic/Spirit/SpriteSheetDouble.png"
-dest_files=["res://.godot/imported/SpriteSheetDouble.png-834e82e8f8fd566febeabe84f9b91237.ctex"]
+source_file="res://assets/FX/Magic/Spirit/SpriteSheetDouble.png"
+dest_files=["res://.godot/imported/SpriteSheetDouble.png-b81d8210c9594e21bd2dc28a56c9e977.ctex"]
 
 [params]
 

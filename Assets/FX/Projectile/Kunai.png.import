@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bik8ya7o27r27"
-path="res://.godot/imported/Kunai.png-a9e9b8e24f58d1399acd3cd5717b4d79.ctex"
+path="res://.godot/imported/Kunai.png-cb5b574f38927292ab2f0fcb33e0417d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Projectile/Kunai.png"
-dest_files=["res://.godot/imported/Kunai.png-a9e9b8e24f58d1399acd3cd5717b4d79.ctex"]
+source_file="res://assets/FX/Projectile/Kunai.png"
+dest_files=["res://.godot/imported/Kunai.png-cb5b574f38927292ab2f0fcb33e0417d.ctex"]
 
 [params]
 

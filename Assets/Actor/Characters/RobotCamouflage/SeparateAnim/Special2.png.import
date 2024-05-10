@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwh6igutudl77"
-path="res://.godot/imported/Special2.png-9cc4e47a75827c90b63b579684b31ade.ctex"
+path="res://.godot/imported/Special2.png-f4a6b80b954a140273e77d23a28781d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/RobotCamouflage/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-9cc4e47a75827c90b63b579684b31ade.ctex"]
+source_file="res://assets/Actor/Characters/RobotCamouflage/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-f4a6b80b954a140273e77d23a28781d3.ctex"]
 
 [params]
 

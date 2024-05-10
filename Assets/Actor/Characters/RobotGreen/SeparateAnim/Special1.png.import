@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwvckiq8dryfb"
-path="res://.godot/imported/Special1.png-bbd3ed5b3808c43bee45f86c40f55ff5.ctex"
+path="res://.godot/imported/Special1.png-03abca4f5ef201ee3cb486f70b409c32.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/RobotGreen/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-bbd3ed5b3808c43bee45f86c40f55ff5.ctex"]
+source_file="res://assets/Actor/Characters/RobotGreen/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-03abca4f5ef201ee3cb486f70b409c32.ctex"]
 
 [params]
 

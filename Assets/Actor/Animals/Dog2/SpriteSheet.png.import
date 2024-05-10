@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvslikqsln6n"
-path="res://.godot/imported/SpriteSheet.png-ab8928fcd3a951cdcdb418749a3ddb87.ctex"
+path="res://.godot/imported/SpriteSheet.png-262fc001440a0ed2225c874e851ba5f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Dog2/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-ab8928fcd3a951cdcdb418749a3ddb87.ctex"]
+source_file="res://assets/Actor/Animals/Dog2/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-262fc001440a0ed2225c874e851ba5f3.ctex"]
 
 [params]
 

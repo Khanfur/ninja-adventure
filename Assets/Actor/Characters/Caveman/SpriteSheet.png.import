@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpkdx2vw3o8x"
-path="res://.godot/imported/SpriteSheet.png-0cb77ee2171bbe9f87c464a6a6534739.ctex"
+path="res://.godot/imported/SpriteSheet.png-12fe2f2e75dc63b33afc7d2cd8927a04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Caveman/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-0cb77ee2171bbe9f87c464a6a6534739.ctex"]
+source_file="res://assets/Actor/Characters/Caveman/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-12fe2f2e75dc63b33afc7d2cd8927a04.ctex"]
 
 [params]
 

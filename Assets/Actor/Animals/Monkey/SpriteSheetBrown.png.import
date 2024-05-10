@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dencd65y3p6ch"
-path="res://.godot/imported/SpriteSheetBrown.png-d10c369cac69f12da1e1eded4a7d018c.ctex"
+path="res://.godot/imported/SpriteSheetBrown.png-b97cc8f661246c83b2402379bd390dcc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Monkey/SpriteSheetBrown.png"
-dest_files=["res://.godot/imported/SpriteSheetBrown.png-d10c369cac69f12da1e1eded4a7d018c.ctex"]
+source_file="res://assets/Actor/Animals/Monkey/SpriteSheetBrown.png"
+dest_files=["res://.godot/imported/SpriteSheetBrown.png-b97cc8f661246c83b2402379bd390dcc.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct7jnxyf6fin1"
-path="res://.godot/imported/FacesetRed.png-602736c0ec921d1d5e9474f29ad4c1b6.ctex"
+path="res://.godot/imported/FacesetRed.png-36a970a42119a50a2004b6c125ef4cdd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Pig/FacesetRed.png"
-dest_files=["res://.godot/imported/FacesetRed.png-602736c0ec921d1d5e9474f29ad4c1b6.ctex"]
+source_file="res://assets/Actor/Animals/Pig/FacesetRed.png"
+dest_files=["res://.godot/imported/FacesetRed.png-36a970a42119a50a2004b6c125ef4cdd.ctex"]
 
 [params]
 

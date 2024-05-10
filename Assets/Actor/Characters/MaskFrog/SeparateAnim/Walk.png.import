@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyvxufuumsnnm"
-path="res://.godot/imported/Walk.png-bb11a49106d646dd4c95f6acbce6dc33.ctex"
+path="res://.godot/imported/Walk.png-f9dfb35aed2bf4f79275d0e9ea8a885e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/MaskFrog/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-bb11a49106d646dd4c95f6acbce6dc33.ctex"]
+source_file="res://assets/Actor/Characters/MaskFrog/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-f9dfb35aed2bf4f79275d0e9ea8a885e.ctex"]
 
 [params]
 

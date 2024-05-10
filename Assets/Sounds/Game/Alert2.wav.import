@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://kmratewqmpka"
-path="res://.godot/imported/Alert2.wav-47c36050a83849a8d889e29feac2daca.sample"
+path="res://.godot/imported/Alert2.wav-fa8c693596489e0b2744f7a18c7ea34c.sample"
 
 [deps]
 
-source_file="res://Assets/Sounds/Game/Alert2.wav"
-dest_files=["res://.godot/imported/Alert2.wav-47c36050a83849a8d889e29feac2daca.sample"]
+source_file="res://assets/Sounds/Game/Alert2.wav"
+dest_files=["res://.godot/imported/Alert2.wav-fa8c693596489e0b2744f7a18c7ea34c.sample"]
 
 [params]
 

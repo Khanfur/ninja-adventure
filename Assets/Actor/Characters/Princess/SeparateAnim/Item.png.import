@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4gk4ea0e232k"
-path="res://.godot/imported/Item.png-6f6d06b7bbe9a48b09a608c6357dcac9.ctex"
+path="res://.godot/imported/Item.png-e75df0692c244e1d0ec56b0f4ad394df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Princess/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-6f6d06b7bbe9a48b09a608c6357dcac9.ctex"]
+source_file="res://assets/Actor/Characters/Princess/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-e75df0692c244e1d0ec56b0f4ad394df.ctex"]
 
 [params]
 

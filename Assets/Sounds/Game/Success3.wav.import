@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://omk41otgov2h"
-path="res://.godot/imported/Success3.wav-de93d0cb9a7f8557e83c20a10e6d2016.sample"
+path="res://.godot/imported/Success3.wav-f47477d02aa77d8cf2fa5f37d831f29b.sample"
 
 [deps]
 
-source_file="res://Assets/Sounds/Game/Success3.wav"
-dest_files=["res://.godot/imported/Success3.wav-de93d0cb9a7f8557e83c20a10e6d2016.sample"]
+source_file="res://assets/Sounds/Game/Success3.wav"
+dest_files=["res://.godot/imported/Success3.wav-f47477d02aa77d8cf2fa5f37d831f29b.sample"]
 
 [params]
 

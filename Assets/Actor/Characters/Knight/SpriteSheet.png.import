@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uctw2lh01760"
-path="res://.godot/imported/SpriteSheet.png-06f2f2ac4382909fc6c6e98b2ad18d4a.ctex"
+path="res://.godot/imported/SpriteSheet.png-11934dd542e4bae3e73885c766bb0025.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Knight/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-06f2f2ac4382909fc6c6e98b2ad18d4a.ctex"]
+source_file="res://assets/Actor/Characters/Knight/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-11934dd542e4bae3e73885c766bb0025.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckpqeyr1u6m8d"
-path="res://.godot/imported/Faceset.png-d7c7e4560955763f06e4dc517a5a0479.ctex"
+path="res://.godot/imported/Faceset.png-cdd37d67d0ad910092d747d0742eb0f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Villager2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-d7c7e4560955763f06e4dc517a5a0479.ctex"]
+source_file="res://assets/Actor/Characters/Villager2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-cdd37d67d0ad910092d747d0742eb0f1.ctex"]
 
 [params]
 

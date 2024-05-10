@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://daeis8c8acnjm"
-path="res://.godot/imported/Yakitori.png-10968ac48706133133b84735af16c597.ctex"
+path="res://.godot/imported/Yakitori.png-85497cefda8a196702e26e3b5be61b2d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Food/Yakitori.png"
-dest_files=["res://.godot/imported/Yakitori.png-10968ac48706133133b84735af16c597.ctex"]
+source_file="res://assets/Items/Food/Yakitori.png"
+dest_files=["res://.godot/imported/Yakitori.png-85497cefda8a196702e26e3b5be61b2d.ctex"]
 
 [params]
 

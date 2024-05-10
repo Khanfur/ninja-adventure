@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkip1ioantele"
-path="res://.godot/imported/Rain.png-94f9e4c14924ab616928c1a5529cfa51.ctex"
+path="res://.godot/imported/Rain.png-449bf52b467c798a57b4b359053d83b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Particle/Rain.png"
-dest_files=["res://.godot/imported/Rain.png-94f9e4c14924ab616928c1a5529cfa51.ctex"]
+source_file="res://assets/FX/Particle/Rain.png"
+dest_files=["res://.godot/imported/Rain.png-449bf52b467c798a57b4b359053d83b8.ctex"]
 
 [params]
 

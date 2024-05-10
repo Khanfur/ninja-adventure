@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brnlcighrr11m"
-path="res://.godot/imported/ScrollIce.png-501e9f8be437e47efb66ba9cae933cfc.ctex"
+path="res://.godot/imported/ScrollIce.png-f5110dc34901a44dc09dcdbb8dc382e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Items/Scroll/ScrollIce.png"
-dest_files=["res://.godot/imported/ScrollIce.png-501e9f8be437e47efb66ba9cae933cfc.ctex"]
+source_file="res://assets/Items/Scroll/ScrollIce.png"
+dest_files=["res://.godot/imported/ScrollIce.png-f5110dc34901a44dc09dcdbb8dc382e5.ctex"]
 
 [params]
 

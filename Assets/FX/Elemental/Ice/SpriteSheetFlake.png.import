@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj5jt5maimbsi"
-path="res://.godot/imported/SpriteSheetFlake.png-2c07d46be1a5cef1ae313834359f2547.ctex"
+path="res://.godot/imported/SpriteSheetFlake.png-6fb080b4cb19c3fd0cbd55eee2abe05a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Elemental/Ice/SpriteSheetFlake.png"
-dest_files=["res://.godot/imported/SpriteSheetFlake.png-2c07d46be1a5cef1ae313834359f2547.ctex"]
+source_file="res://assets/FX/Elemental/Ice/SpriteSheetFlake.png"
+dest_files=["res://.godot/imported/SpriteSheetFlake.png-6fb080b4cb19c3fd0cbd55eee2abe05a.ctex"]
 
 [params]
 

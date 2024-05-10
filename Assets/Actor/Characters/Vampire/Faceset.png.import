@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ok722ucjnvvv"
-path="res://.godot/imported/Faceset.png-d42bba768374442ec050e92a21b6f083.ctex"
+path="res://.godot/imported/Faceset.png-ab692f149b538105e1517f71a8dc309d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Vampire/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-d42bba768374442ec050e92a21b6f083.ctex"]
+source_file="res://assets/Actor/Characters/Vampire/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-ab692f149b538105e1517f71a8dc309d.ctex"]
 
 [params]
 

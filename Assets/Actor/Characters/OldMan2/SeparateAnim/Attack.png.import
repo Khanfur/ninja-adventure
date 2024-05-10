@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgasymbpmkdkv"
-path="res://.godot/imported/Attack.png-2de20025ac5cddb3ac77655947484b90.ctex"
+path="res://.godot/imported/Attack.png-6315cf67e357a4d278a78bf651c8e377.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/OldMan2/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-2de20025ac5cddb3ac77655947484b90.ctex"]
+source_file="res://assets/Actor/Characters/OldMan2/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-6315cf67e357a4d278a78bf651c8e377.ctex"]
 
 [params]
 

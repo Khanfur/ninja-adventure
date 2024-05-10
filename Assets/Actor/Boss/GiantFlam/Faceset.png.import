@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b80brqcr01g1k"
-path="res://.godot/imported/Faceset.png-1396b2629201e22ec2eebac70858d039.ctex"
+path="res://.godot/imported/Faceset.png-ca68631b0c1348e233e7a5803c7f4af4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Boss/GiantFlam/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-1396b2629201e22ec2eebac70858d039.ctex"]
+source_file="res://assets/Actor/Boss/GiantFlam/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-ca68631b0c1348e233e7a5803c7f4af4.ctex"]
 
 [params]
 

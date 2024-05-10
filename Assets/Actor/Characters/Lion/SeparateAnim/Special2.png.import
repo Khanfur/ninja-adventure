@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lgak3msqx8bi"
-path="res://.godot/imported/Special2.png-6635ae0b0ee4d08d9773d0e23276c562.ctex"
+path="res://.godot/imported/Special2.png-4c336d888a6d4e82d1cf9c59d17a4ad2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Lion/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-6635ae0b0ee4d08d9773d0e23276c562.ctex"]
+source_file="res://assets/Actor/Characters/Lion/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-4c336d888a6d4e82d1cf9c59d17a4ad2.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c7morevbi8fax"
-path="res://.godot/imported/GameOver2.wav-d3b53cb966278c4e7a129fa2f7482d29.sample"
+path="res://.godot/imported/GameOver2.wav-107de568163ea75996561db221baf640.sample"
 
 [deps]
 
-source_file="res://Assets/Sounds/Game/GameOver2.wav"
-dest_files=["res://.godot/imported/GameOver2.wav-d3b53cb966278c4e7a129fa2f7482d29.sample"]
+source_file="res://assets/Sounds/Game/GameOver2.wav"
+dest_files=["res://.godot/imported/GameOver2.wav-107de568163ea75996561db221baf640.sample"]
 
 [params]
 

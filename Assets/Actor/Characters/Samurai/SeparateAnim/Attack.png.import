@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btth54a4vrx3u"
-path="res://.godot/imported/Attack.png-ce42b8cec6c07b4f5ce13905be24b4ef.ctex"
+path="res://.godot/imported/Attack.png-dafeb68d5362775d8e544cba6d2f9828.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Samurai/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-ce42b8cec6c07b4f5ce13905be24b4ef.ctex"]
+source_file="res://assets/Actor/Characters/Samurai/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-dafeb68d5362775d8e544cba6d2f9828.ctex"]
 
 [params]
 

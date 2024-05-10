@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b18iqrkjmurog"
-path="res://.godot/imported/26 - Lost Village.ogg-dc85c28a6d998bdf03fef780e846c742.oggvorbisstr"
+path="res://.godot/imported/26 - Lost Village.ogg-cfe8cba4bce8a4d26349d19423a1e2cb.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Musics/26 - Lost Village.ogg"
-dest_files=["res://.godot/imported/26 - Lost Village.ogg-dc85c28a6d998bdf03fef780e846c742.oggvorbisstr"]
+source_file="res://assets/Musics/26 - Lost Village.ogg"
+dest_files=["res://.godot/imported/26 - Lost Village.ogg-cfe8cba4bce8a4d26349d19423a1e2cb.oggvorbisstr"]
 
 [params]
 

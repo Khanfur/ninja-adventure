@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cht1kdhlb53y3"
-path="res://.godot/imported/SpriteSheet.png-e76a3e94102c963e4c1bc5e731e7cda4.ctex"
+path="res://.godot/imported/SpriteSheet.png-fa98b57fb202d1ad0ca832f7c4cbc922.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/FighterRed/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-e76a3e94102c963e4c1bc5e731e7cda4.ctex"]
+source_file="res://assets/Actor/Characters/FighterRed/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-fa98b57fb202d1ad0ca832f7c4cbc922.ctex"]
 
 [params]
 

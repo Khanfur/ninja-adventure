@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bow2nir1edmbw"
-path="res://.godot/imported/SpriteSheet.png-fb6d5d5381454c013613b82132b9fb70.ctex"
+path="res://.godot/imported/SpriteSheet.png-74c6e881c7be110a57ff0de68c62e013.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Hunter/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-fb6d5d5381454c013613b82132b9fb70.ctex"]
+source_file="res://assets/Actor/Characters/Hunter/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-74c6e881c7be110a57ff0de68c62e013.ctex"]
 
 [params]
 

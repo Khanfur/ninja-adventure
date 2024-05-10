@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7xjf5rxf8kvo"
-path="res://.godot/imported/Jump.png-52f2ad4d40b97434471b5b3cf0f3dfd6.ctex"
+path="res://.godot/imported/Jump.png-6503715c221e9c904f4afee8f3d944f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/MaskFrog/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-52f2ad4d40b97434471b5b3cf0f3dfd6.ctex"]
+source_file="res://assets/Actor/Characters/MaskFrog/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-6503715c221e9c904f4afee8f3d944f4.ctex"]
 
 [params]
 

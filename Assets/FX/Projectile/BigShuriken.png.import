@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgsj2y8bgx11v"
-path="res://.godot/imported/BigShuriken.png-83b201be8cd781af35b24f277ced1b7f.ctex"
+path="res://.godot/imported/BigShuriken.png-de351f162d01dfe40a2165b140f7cae3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Projectile/BigShuriken.png"
-dest_files=["res://.godot/imported/BigShuriken.png-83b201be8cd781af35b24f277ced1b7f.ctex"]
+source_file="res://assets/FX/Projectile/BigShuriken.png"
+dest_files=["res://.godot/imported/BigShuriken.png-de351f162d01dfe40a2165b140f7cae3.ctex"]
 
 [params]
 

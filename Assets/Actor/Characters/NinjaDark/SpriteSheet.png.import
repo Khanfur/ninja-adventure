@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://catmbgx8fl6fx"
-path="res://.godot/imported/SpriteSheet.png-ef2b4a7b44b335d4beb189008f4a08ab.ctex"
+path="res://.godot/imported/SpriteSheet.png-dffa463d8eff7ac25a46b178d11fb0d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/NinjaDark/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-ef2b4a7b44b335d4beb189008f4a08ab.ctex"]
+source_file="res://assets/Actor/Characters/NinjaDark/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-dffa463d8eff7ac25a46b178d11fb0d0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dk11kye5jgpoe"
-path="res://.godot/imported/Idle.png-1bac02e047ec65fcc3250e79f14cc032.ctex"
+path="res://.godot/imported/Idle.png-4ad8b3450447520d23e3d6a0e20562a6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Boss/GiantRacoonGold/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-1bac02e047ec65fcc3250e79f14cc032.ctex"]
+source_file="res://assets/Actor/Boss/GiantRacoonGold/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-4ad8b3450447520d23e3d6a0e20562a6.ctex"]
 
 [params]
 

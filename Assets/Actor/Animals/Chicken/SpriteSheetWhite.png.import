@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by64cvkg7pmgd"
-path="res://.godot/imported/SpriteSheetWhite.png-19f3505a8b902479745ac625e23f4c74.ctex"
+path="res://.godot/imported/SpriteSheetWhite.png-1f66c1a3ff092773d6e4ebd935f82dc5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Chicken/SpriteSheetWhite.png"
-dest_files=["res://.godot/imported/SpriteSheetWhite.png-19f3505a8b902479745ac625e23f4c74.ctex"]
+source_file="res://assets/Actor/Animals/Chicken/SpriteSheetWhite.png"
+dest_files=["res://.godot/imported/SpriteSheetWhite.png-1f66c1a3ff092773d6e4ebd935f82dc5.ctex"]
 
 [params]
 

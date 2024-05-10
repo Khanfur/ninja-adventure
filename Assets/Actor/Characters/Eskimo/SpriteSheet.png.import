@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6qa23m44s2r5"
-path="res://.godot/imported/SpriteSheet.png-ed40ab171b421d6f46219d87c9a55963.ctex"
+path="res://.godot/imported/SpriteSheet.png-469bfa9aec82478488b22a9747d7cf72.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Eskimo/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-ed40ab171b421d6f46219d87c9a55963.ctex"]
+source_file="res://assets/Actor/Characters/Eskimo/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-469bfa9aec82478488b22a9747d7cf72.ctex"]
 
 [params]
 

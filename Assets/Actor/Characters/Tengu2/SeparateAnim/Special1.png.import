@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5sl2g7ljv144"
-path="res://.godot/imported/Special1.png-db4452646d453613ce412b859bcd143d.ctex"
+path="res://.godot/imported/Special1.png-e02328a4e1805b9574e8289beb31ddfb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Tengu2/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-db4452646d453613ce412b859bcd143d.ctex"]
+source_file="res://assets/Actor/Characters/Tengu2/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-e02328a4e1805b9574e8289beb31ddfb.ctex"]
 
 [params]
 

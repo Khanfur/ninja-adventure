@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d7hmpu1dw4im"
-path="res://.godot/imported/Faceset.png-25368765a2c74d9505fbe35ab58185b1.ctex"
+path="res://.godot/imported/Faceset.png-0f9e86ec7b71b3a8d6c3714427118e1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/EggBoy/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-25368765a2c74d9505fbe35ab58185b1.ctex"]
+source_file="res://assets/Actor/Characters/EggBoy/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-0f9e86ec7b71b3a8d6c3714427118e1d.ctex"]
 
 [params]
 

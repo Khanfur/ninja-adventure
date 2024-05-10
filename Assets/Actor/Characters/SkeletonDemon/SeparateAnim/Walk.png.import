@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdb2fr3pjhsc8"
-path="res://.godot/imported/Walk.png-b0baaeece08e995b9a66579e91b85fa8.ctex"
+path="res://.godot/imported/Walk.png-8faec783f118c0293a34eac774fe088b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SkeletonDemon/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-b0baaeece08e995b9a66579e91b85fa8.ctex"]
+source_file="res://assets/Actor/Characters/SkeletonDemon/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-8faec783f118c0293a34eac774fe088b.ctex"]
 
 [params]
 

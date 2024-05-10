@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ig2pw3gybbrr"
-path="res://.godot/imported/Item.png-7e2ea4a889ec5cd10819d5a3b655a839.ctex"
+path="res://.godot/imported/Item.png-9969c5e47bbf6c6f7d34c133dec541d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/EggBoy/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-7e2ea4a889ec5cd10819d5a3b655a839.ctex"]
+source_file="res://assets/Actor/Characters/EggBoy/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-9969c5e47bbf6c6f7d34c133dec541d7.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7gikjd12gb5v"
-path="res://.godot/imported/Special2.png-51215242a8e17e63b6cf6e52ad2fad83.ctex"
+path="res://.godot/imported/Special2.png-875199e8ef3c24a66b02d46c89236be9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SkeletonDemon/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-51215242a8e17e63b6cf6e52ad2fad83.ctex"]
+source_file="res://assets/Actor/Characters/SkeletonDemon/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-875199e8ef3c24a66b02d46c89236be9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buukt5u8cler8"
-path="res://.godot/imported/Faceset.png-1fbd1ae23cd421992b7e9a9c5d95063d.ctex"
+path="res://.godot/imported/Faceset.png-abf4a5178fea692f57e00921818d4def.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Mollusc/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-1fbd1ae23cd421992b7e9a9c5d95063d.ctex"]
+source_file="res://assets/Actor/Monsters/Mollusc/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-abf4a5178fea692f57e00921818d4def.ctex"]
 
 [params]
 

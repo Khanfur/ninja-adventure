@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4g5t6wgvx2nh"
-path="res://.godot/imported/SpriteSheetWhite.png-4e3b630675fd66f6cd144a38d6bc434f.ctex"
+path="res://.godot/imported/SpriteSheetWhite.png-715eb0556f107635a38e0de0338b9e4c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Magic/Circle/SpriteSheetWhite.png"
-dest_files=["res://.godot/imported/SpriteSheetWhite.png-4e3b630675fd66f6cd144a38d6bc434f.ctex"]
+source_file="res://assets/FX/Magic/Circle/SpriteSheetWhite.png"
+dest_files=["res://.godot/imported/SpriteSheetWhite.png-715eb0556f107635a38e0de0338b9e4c.ctex"]
 
 [params]
 

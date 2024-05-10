@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djkdnxle5k3rv"
-path="res://.godot/imported/Mole2.png-38cd0fc7bfdbf6789e9f23f35386fb65.ctex"
+path="res://.godot/imported/Mole2.png-56dc6f3647bb19ff7817c84ca69891b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Mole2/Mole2.png"
-dest_files=["res://.godot/imported/Mole2.png-38cd0fc7bfdbf6789e9f23f35386fb65.ctex"]
+source_file="res://assets/Actor/Monsters/Mole2/Mole2.png"
+dest_files=["res://.godot/imported/Mole2.png-56dc6f3647bb19ff7817c84ca69891b8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqvjf3b2ino1q"
-path="res://.godot/imported/SpriteSheetWhite.png-233d9bedf00c4157114f8800b37e84f0.ctex"
+path="res://.godot/imported/SpriteSheetWhite.png-6e474e6923c3ebbee212e2ff663da3e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/Magic/Aura/SpriteSheetWhite.png"
-dest_files=["res://.godot/imported/SpriteSheetWhite.png-233d9bedf00c4157114f8800b37e84f0.ctex"]
+source_file="res://assets/FX/Magic/Aura/SpriteSheetWhite.png"
+dest_files=["res://.godot/imported/SpriteSheetWhite.png-6e474e6923c3ebbee212e2ff663da3e8.ctex"]
 
 [params]
 

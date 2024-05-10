@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5q7f8m1iewoa"
-path="res://.godot/imported/Faceset.png-8c525a1e4fdab2f84d8aade87fa7064c.ctex"
+path="res://.godot/imported/Faceset.png-cda3322514ed7e475a48efd40eddacb0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/MouseBlack/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-8c525a1e4fdab2f84d8aade87fa7064c.ctex"]
+source_file="res://assets/Actor/Monsters/MouseBlack/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-cda3322514ed7e475a48efd40eddacb0.ctex"]
 
 [params]
 

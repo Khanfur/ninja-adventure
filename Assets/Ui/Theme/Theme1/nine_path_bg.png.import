@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3evk1v4a0hla"
-path="res://.godot/imported/nine_path_bg.png-58f7c78b50add337f6e3d84b79e13a50.ctex"
+path="res://.godot/imported/nine_path_bg.png-f61efd0586ed841c4b06bcd8798e388e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Ui/Theme/Theme1/nine_path_bg.png"
-dest_files=["res://.godot/imported/nine_path_bg.png-58f7c78b50add337f6e3d84b79e13a50.ctex"]
+source_file="res://assets/Ui/Theme/Theme1/nine_path_bg.png"
+dest_files=["res://.godot/imported/nine_path_bg.png-f61efd0586ed841c4b06bcd8798e388e.ctex"]
 
 [params]
 

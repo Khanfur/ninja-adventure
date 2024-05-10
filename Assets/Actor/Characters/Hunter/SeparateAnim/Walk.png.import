@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be1sf5nnyyuy0"
-path="res://.godot/imported/Walk.png-b8e97e136ed1b0ca7bb16311acd1f1d4.ctex"
+path="res://.godot/imported/Walk.png-a3b3a4edf1fb458db93ee5073a338afb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Hunter/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-b8e97e136ed1b0ca7bb16311acd1f1d4.ctex"]
+source_file="res://assets/Actor/Characters/Hunter/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-a3b3a4edf1fb458db93ee5073a338afb.ctex"]
 
 [params]
 

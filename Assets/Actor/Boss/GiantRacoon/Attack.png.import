@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wfh8auitpxxc"
-path="res://.godot/imported/Attack.png-6650b652c3c0a6d3a5cb344c889617b8.ctex"
+path="res://.godot/imported/Attack.png-be1c289a5104cbc6e7360e756d399110.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Boss/GiantRacoon/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-6650b652c3c0a6d3a5cb344c889617b8.ctex"]
+source_file="res://assets/Actor/Boss/GiantRacoon/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-be1c289a5104cbc6e7360e756d399110.ctex"]
 
 [params]
 

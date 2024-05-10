@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dipr3wnkvc6cj"
-path="res://.godot/imported/Idle.png-b58546c3f219364c9d9810a9e5a025bc.ctex"
+path="res://.godot/imported/Idle.png-e5c3d1d9979b13584d50bfd7fd6a6c8e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/RobotCamouflage/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-b58546c3f219364c9d9810a9e5a025bc.ctex"]
+source_file="res://assets/Actor/Characters/RobotCamouflage/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-e5c3d1d9979b13584d50bfd7fd6a6c8e.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cp4670q7pq41n"
-path="res://.godot/imported/5 - Peaceful.ogg-cc768f53092ee67e2737b3ddebb2422e.oggvorbisstr"
+path="res://.godot/imported/5 - Peaceful.ogg-fcc1b6a01713f7476a8435d74bee560d.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Musics/5 - Peaceful.ogg"
-dest_files=["res://.godot/imported/5 - Peaceful.ogg-cc768f53092ee67e2737b3ddebb2422e.oggvorbisstr"]
+source_file="res://assets/Musics/5 - Peaceful.ogg"
+dest_files=["res://.godot/imported/5 - Peaceful.ogg-fcc1b6a01713f7476a8435d74bee560d.oggvorbisstr"]
 
 [params]
 

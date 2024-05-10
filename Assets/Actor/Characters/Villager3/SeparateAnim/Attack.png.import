@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4inwh0fkeujk"
-path="res://.godot/imported/Attack.png-03853d1bbd1300d43aa6daf844ff388a.ctex"
+path="res://.godot/imported/Attack.png-447f9de604dcaad48af32613a5e9b9db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Villager3/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-03853d1bbd1300d43aa6daf844ff388a.ctex"]
+source_file="res://assets/Actor/Characters/Villager3/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-447f9de604dcaad48af32613a5e9b9db.ctex"]
 
 [params]
 

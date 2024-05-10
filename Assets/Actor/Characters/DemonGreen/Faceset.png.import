@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://benk41tfvfvmp"
-path="res://.godot/imported/Faceset.png-e9d62150416fc1166f77f971c8a1c5f2.ctex"
+path="res://.godot/imported/Faceset.png-89dc95533eedc1ba3c6207b0c96e8f81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/DemonGreen/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-e9d62150416fc1166f77f971c8a1c5f2.ctex"]
+source_file="res://assets/Actor/Characters/DemonGreen/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-89dc95533eedc1ba3c6207b0c96e8f81.ctex"]
 
 [params]
 

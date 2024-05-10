@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnj85o4bwr2j1"
-path="res://.godot/imported/Walk.png-c17cee0a2cc93d140f491a2bab54c4f7.ctex"
+path="res://.godot/imported/Walk.png-bec49ae6a4ae3617610a2ffaf70b91a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Boss/DemonCyclop2/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-c17cee0a2cc93d140f491a2bab54c4f7.ctex"]
+source_file="res://assets/Actor/Boss/DemonCyclop2/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-bec49ae6a4ae3617610a2ffaf70b91a2.ctex"]
 
 [params]
 

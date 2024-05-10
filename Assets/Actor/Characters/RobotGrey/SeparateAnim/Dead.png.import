@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ebsqt2tcr0rb"
-path="res://.godot/imported/Dead.png-0354906941f08ff80b2a0064c092e580.ctex"
+path="res://.godot/imported/Dead.png-ad89f14c5d3f28b4c453398a437556a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/RobotGrey/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-0354906941f08ff80b2a0064c092e580.ctex"]
+source_file="res://assets/Actor/Characters/RobotGrey/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-ad89f14c5d3f28b4c453398a437556a8.ctex"]
 
 [params]
 

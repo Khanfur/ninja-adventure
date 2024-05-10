@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tjqrq3ii0qbq"
-path="res://.godot/imported/FacesetPink.png-893f63c3e8f5cf1fd80625fbe437e6e9.ctex"
+path="res://.godot/imported/FacesetPink.png-7c1f6513e00687fb0d03452bbeea64f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Pig/FacesetPink.png"
-dest_files=["res://.godot/imported/FacesetPink.png-893f63c3e8f5cf1fd80625fbe437e6e9.ctex"]
+source_file="res://assets/Actor/Animals/Pig/FacesetPink.png"
+dest_files=["res://.godot/imported/FacesetPink.png-7c1f6513e00687fb0d03452bbeea64f1.ctex"]
 
 [params]
 

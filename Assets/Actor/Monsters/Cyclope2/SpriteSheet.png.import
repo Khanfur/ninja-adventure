@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do38majr5l80d"
-path="res://.godot/imported/SpriteSheet.png-76f209cc1deb7dc0b0278b77edf78cde.ctex"
+path="res://.godot/imported/SpriteSheet.png-0517d7cf570a1463362d4ccfc56c516d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Monsters/Cyclope2/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-76f209cc1deb7dc0b0278b77edf78cde.ctex"]
+source_file="res://assets/Actor/Monsters/Cyclope2/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-0517d7cf570a1463362d4ccfc56c516d.ctex"]
 
 [params]
 

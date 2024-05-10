@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g5h8g54o47jl"
-path="res://.godot/imported/Faceset.png-fe3a2ee0630146b456068a65dbc9833d.ctex"
+path="res://.godot/imported/Faceset.png-b5010b07b0269308f5e72a2485ae91da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/MonkeyBoxerBlue/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-fe3a2ee0630146b456068a65dbc9833d.ctex"]
+source_file="res://assets/Actor/Characters/MonkeyBoxerBlue/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-b5010b07b0269308f5e72a2485ae91da.ctex"]
 
 [params]
 

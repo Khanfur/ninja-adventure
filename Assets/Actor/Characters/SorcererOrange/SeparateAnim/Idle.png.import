@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chaax86u20ago"
-path="res://.godot/imported/Idle.png-b078b890dfb319d52255fde6bbdefeea.ctex"
+path="res://.godot/imported/Idle.png-29bb695e63c71a3bad6d82508b208c27.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SorcererOrange/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-b078b890dfb319d52255fde6bbdefeea.ctex"]
+source_file="res://assets/Actor/Characters/SorcererOrange/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-29bb695e63c71a3bad6d82508b208c27.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cua7lu62wbu70"
-path="res://.godot/imported/Faceset.png-75249a3e695b1085bb2bae6e86c5d0ab.ctex"
+path="res://.godot/imported/Faceset.png-28f39cf31876054449a9f31254fad9c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Tengu2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-75249a3e695b1085bb2bae6e86c5d0ab.ctex"]
+source_file="res://assets/Actor/Characters/Tengu2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-28f39cf31876054449a9f31254fad9c0.ctex"]
 
 [params]
 

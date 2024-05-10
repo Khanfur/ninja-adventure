@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db22r8mtqy5ju"
-path="res://.godot/imported/Special2.png-e7de3e5dd77c0f7b029b0217944d95ab.ctex"
+path="res://.godot/imported/Special2.png-9cb2de573babc5ed7e82a47d11c6cdd4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/LionOrange/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-e7de3e5dd77c0f7b029b0217944d95ab.ctex"]
+source_file="res://assets/Actor/Characters/LionOrange/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-9cb2de573babc5ed7e82a47d11c6cdd4.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8b17m2b5fr1o"
-path="res://.godot/imported/Special1.png-218034a085409e54debc3ed505a1fe4d.ctex"
+path="res://.godot/imported/Special1.png-a3e6c7e752b99eec33c5430eda678fa5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Vampire/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-218034a085409e54debc3ed505a1fe4d.ctex"]
+source_file="res://assets/Actor/Characters/Vampire/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-a3e6c7e752b99eec33c5430eda678fa5.ctex"]
 
 [params]
 

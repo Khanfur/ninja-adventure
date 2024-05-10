@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp82kkx3b2r42"
-path="res://.godot/imported/Dead14.png-1f1b691f8e43e9f2cd7abfc5e6a186cc.ctex"
+path="res://.godot/imported/Dead14.png-d038171cb6818df42b0769d68a0da6a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/MaskFrog/Dead14.png"
-dest_files=["res://.godot/imported/Dead14.png-1f1b691f8e43e9f2cd7abfc5e6a186cc.ctex"]
+source_file="res://assets/Actor/Characters/MaskFrog/Dead14.png"
+dest_files=["res://.godot/imported/Dead14.png-d038171cb6818df42b0769d68a0da6a4.ctex"]
 
 [params]
 

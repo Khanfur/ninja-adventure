@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmls3rem577ab"
-path="res://.godot/imported/FacesetBrown.png-027f6536dff0dd5e4260724c3c843f6f.ctex"
+path="res://.godot/imported/FacesetBrown.png-b6c549ee87a41ec25de39e7eb90ea9fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Horse/FacesetBrown.png"
-dest_files=["res://.godot/imported/FacesetBrown.png-027f6536dff0dd5e4260724c3c843f6f.ctex"]
+source_file="res://assets/Actor/Animals/Horse/FacesetBrown.png"
+dest_files=["res://.godot/imported/FacesetBrown.png-b6c549ee87a41ec25de39e7eb90ea9fc.ctex"]
 
 [params]
 

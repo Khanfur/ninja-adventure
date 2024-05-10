@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d51mcjwikiy5"
-path="res://.godot/imported/Gold3.wav-3f300e97d0e47a22081955d63310efe3.sample"
+path="res://.godot/imported/Gold3.wav-3f03a9a8e0e68f124f250536bee397c3.sample"
 
 [deps]
 
-source_file="res://Assets/Sounds/Game/Gold3.wav"
-dest_files=["res://.godot/imported/Gold3.wav-3f300e97d0e47a22081955d63310efe3.sample"]
+source_file="res://assets/Sounds/Game/Gold3.wav"
+dest_files=["res://.godot/imported/Gold3.wav-3f03a9a8e0e68f124f250536bee397c3.sample"]
 
 [params]
 

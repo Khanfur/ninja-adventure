@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dljtf8solu3fh"
-path="res://.godot/imported/Faceset.png-d4d88948fb47aa302bf193beaf437d0a.ctex"
+path="res://.godot/imported/Faceset.png-9598941ae830bb7ab17c7490c253de7c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Boss/GiantFrog2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-d4d88948fb47aa302bf193beaf437d0a.ctex"]
+source_file="res://assets/Actor/Boss/GiantFrog2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-9598941ae830bb7ab17c7490c253de7c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8vgj5uqh4nyv"
-path="res://.godot/imported/Faceset.png-57215da369c725a04d44066860e01710.ctex"
+path="res://.godot/imported/Faceset.png-3878bbaffff9c95d65376c2da02c5e24.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/SorcererOrange/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-57215da369c725a04d44066860e01710.ctex"]
+source_file="res://assets/Actor/Characters/SorcererOrange/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-3878bbaffff9c95d65376c2da02c5e24.ctex"]
 
 [params]
 

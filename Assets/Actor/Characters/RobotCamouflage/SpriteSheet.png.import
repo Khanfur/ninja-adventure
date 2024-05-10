@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1n0fmhf67tj5"
-path="res://.godot/imported/SpriteSheet.png-5a82eb54c1da46a3610f3c9a9ca0284c.ctex"
+path="res://.godot/imported/SpriteSheet.png-3c3fd17d6eb87b77d911de86f976d746.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/RobotCamouflage/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-5a82eb54c1da46a3610f3c9a9ca0284c.ctex"]
+source_file="res://assets/Actor/Characters/RobotCamouflage/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-3c3fd17d6eb87b77d911de86f976d746.ctex"]
 
 [params]
 

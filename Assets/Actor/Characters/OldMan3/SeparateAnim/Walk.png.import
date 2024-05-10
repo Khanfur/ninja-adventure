@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwryvyi76s2d0"
-path="res://.godot/imported/Walk.png-a20f0288fea4cece3ac32d0960f11089.ctex"
+path="res://.godot/imported/Walk.png-f070e013ab91ad25c0910d924f8c27aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/OldMan3/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-a20f0288fea4cece3ac32d0960f11089.ctex"]
+source_file="res://assets/Actor/Characters/OldMan3/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-f070e013ab91ad25c0910d924f8c27aa.ctex"]
 
 [params]
 

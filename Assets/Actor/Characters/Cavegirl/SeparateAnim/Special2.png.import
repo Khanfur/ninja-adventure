@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq6guek0i5lly"
-path="res://.godot/imported/Special2.png-69e7ad192ed8c9c35444366b01eabbdc.ctex"
+path="res://.godot/imported/Special2.png-4d887382f56029abc6b19771f705b447.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Cavegirl/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-69e7ad192ed8c9c35444366b01eabbdc.ctex"]
+source_file="res://assets/Actor/Characters/Cavegirl/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-4d887382f56029abc6b19771f705b447.ctex"]
 
 [params]
 

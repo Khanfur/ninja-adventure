@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bamurcmsor6tm"
-path="res://.godot/imported/Special2.png-4204ffdf71f00dc74a316f23434a2e9d.ctex"
+path="res://.godot/imported/Special2.png-7fb1c3768272d9b579abdc32d5250c72.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/DemonRed/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-4204ffdf71f00dc74a316f23434a2e9d.ctex"]
+source_file="res://assets/Actor/Characters/DemonRed/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-7fb1c3768272d9b579abdc32d5250c72.ctex"]
 
 [params]
 

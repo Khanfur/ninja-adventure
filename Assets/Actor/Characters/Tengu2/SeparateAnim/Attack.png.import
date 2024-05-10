@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbn3lat5hjtvg"
-path="res://.godot/imported/Attack.png-9a1c3bff55c6a0b38db4de7eb88a431f.ctex"
+path="res://.godot/imported/Attack.png-4c3a643ebc5a1d28a36c0814ab1d0488.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/Tengu2/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-9a1c3bff55c6a0b38db4de7eb88a431f.ctex"]
+source_file="res://assets/Actor/Characters/Tengu2/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-4c3a643ebc5a1d28a36c0814ab1d0488.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbxorn0lj60ku"
-path="res://.godot/imported/Faceset.png-e7fcdcdb6ca6dcbfbe3f1fea12fff9df.ctex"
+path="res://.godot/imported/Faceset.png-a1ed3254b1f5979d1f969bc5ddcdbdf1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/RobotGrey/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-e7fcdcdb6ca6dcbfbe3f1fea12fff9df.ctex"]
+source_file="res://assets/Actor/Characters/RobotGrey/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-a1ed3254b1f5979d1f969bc5ddcdbdf1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gt5fsppxklvv"
-path="res://.godot/imported/Special1.png-6c23eefc6aded6ea449a57211c2558fb.ctex"
+path="res://.godot/imported/Special1.png-6de13c4e57c85f3c54172083d29070ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Characters/NinjaMasked/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-6c23eefc6aded6ea449a57211c2558fb.ctex"]
+source_file="res://assets/Actor/Characters/NinjaMasked/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-6de13c4e57c85f3c54172083d29070ae.ctex"]
 
 [params]
 

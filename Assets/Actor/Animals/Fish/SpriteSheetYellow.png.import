@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpwqa0f88s8o8"
-path="res://.godot/imported/SpriteSheetYellow.png-ea7386ed253b8a2ee7289428fc147eff.ctex"
+path="res://.godot/imported/SpriteSheetYellow.png-52651b78c62c691eb61f754b67b4823e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Actor/Animals/Fish/SpriteSheetYellow.png"
-dest_files=["res://.godot/imported/SpriteSheetYellow.png-ea7386ed253b8a2ee7289428fc147eff.ctex"]
+source_file="res://assets/Actor/Animals/Fish/SpriteSheetYellow.png"
+dest_files=["res://.godot/imported/SpriteSheetYellow.png-52651b78c62c691eb61f754b67b4823e.ctex"]
 
 [params]
 
