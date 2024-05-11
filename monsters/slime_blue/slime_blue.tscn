@@ -1,6 +1,7 @@
-[gd_scene load_steps=21 format=3 uid="uid://betsmw8qxw6j3"]
+[gd_scene load_steps=23 format=3 uid="uid://betsmw8qxw6j3"]
 
 [ext_resource type="Texture2D" uid="uid://c71tbgt8twpuv" path="res://assets/Actor/Monsters/Slime/Slime.png" id="1_fcy62"]
+[ext_resource type="Script" path="res://monsters/slime_blue/slime_blue.gd" id="1_h0ylk"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_1tgds"]
 atlas = ExtResource("1_fcy62")
@@ -156,7 +157,22 @@ animations = [{
 "speed": 5.0
 }]
 
+[sub_resource type="GDScript" id="GDScript_0g0cm"]
+script/source = "extends AnimatedSprite2D
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	pass
+"
+
 [node name="slime_blue" type="CharacterBody2D"]
+script = ExtResource("1_h0ylk")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(-1, -7)
@@ -164,3 +180,4 @@ sprite_frames = SubResource("SpriteFrames_t7jqn")
 animation = &"idle"
 autoplay = "idle"
 frame_progress = 0.555904
+script = SubResource("GDScript_0g0cm")
