@@ -1,4 +1,4 @@
-[gd_scene load_steps=29 format=3 uid="uid://e8bt1hedg6is"]
+[gd_scene load_steps=30 format=3 uid="uid://e8bt1hedg6is"]
 
 [ext_resource type="Script" path="res://player/player.gd" id="1_a0biy"]
 [ext_resource type="Texture2D" uid="uid://pxyeb4rh7k5r" path="res://assets/Actor/Characters/NinjaGreen/SpriteSheet.png" id="1_x0q8i"]
@@ -182,6 +182,9 @@ animations = [{
 "speed": 5.0
 }]
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jk8rv"]
+size = Vector2(14, 4)
+
 [node name="Player" type="CharacterBody2D"]
 texture_filter = 1
 script = ExtResource("1_a0biy")
@@ -194,3 +197,7 @@ animation = &"idle"
 autoplay = "idle"
 frame_progress = 0.310506
 offset = Vector2(0, -7)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -2)
+shape = SubResource("RectangleShape2D_jk8rv")
